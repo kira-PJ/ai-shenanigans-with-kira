@@ -1,0 +1,12 @@
+[
+  {"id": "m1", "title": "Inception",   "genres": ["Sci-Fi","Thriller"], "plot": "A thief who steals corporate secrets through dream-sharing."},
+  {"id": "m2", "title": "Interstellar","genres": ["Sci-Fi","Drama"],    "plot": "A team travels through a wormhole to ensure humanity's survival."},
+  {"id": "m3", "title": "The Dark Knight","genres":["Action","Crime"],  "plot": "Batman faces the Joker in a city on the edge of chaos."},
+  {"id": "m4", "title": "Arrival",     "genres": ["Sci-Fi","Drama"],    "plot": "A linguist communicates with alien visitors to avert conflict."},
+  {"id": "m5", "title": "Gravity",     "genres": ["Sci-Fi","Thriller"], "plot": "Astronauts struggle to survive after an accident in space."},
+  {"id": "m6", "title": "The Martian", "genres": ["Sci-Fi","Adventure"],"plot": "An astronaut is stranded on Mars and must survive alone."},
+  {"id": "m7", "title": "Blade Runner 2049","genres":["Sci-Fi","Neo-Noir"],"plot":"A young blade runner unearths a secret that leads to a search."},
+  {"id": "m8", "title": "Tenet",       "genres": ["Sci-Fi","Action"],   "plot": "A secret agent manipulates time to prevent World War III."},
+  {"id": "m9", "title": "Dunkirk",     "genres": ["War","Drama"],       "plot": "Allied soldiers are evacuated during a fierce WWII battle."},
+  {"id": "m10","title": "Ex Machina",  "genres": ["Sci-Fi","Drama"],    "plot": "A programmer evaluates an intelligent humanoid robot's Turing test."}
+]
